@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+After a career in HR technology management, I have decided to fulfill a longstanding dream of formally studying areas of linguistic research that had been brewing in the back of my head as long as I remember. I am paricularly interested in Old English, its current morphology, syntax and grammar, as well as its evolvement from Proto-Germanic and Proto-Indo-European.
+
+I am currently enrolled in English studies at the University of Nottingham (distance learning), where I endeavor to study systematically and try to re-sharpen my academic skills while unlearning managerial overhead ;)
+
+I do hold a degree in Psychology from the University of Bremen and an MBA from Henley Business School.
+
 <!--
 **boredbede/boredbede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
